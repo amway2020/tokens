@@ -1,0 +1,11 @@
+{
+ "name": "Zhan Sheng Token",
+ "website": "URI",
+ "description": "战神币，于2021年5月31日发行。邀请各路玩家做庄.",
+ "explorer": "https://tronscan.org/#/TEi7LUXgc2CsL5qWZYw7pTtPwCj9sAGMJkP",
+ "type": "TRC20",
+ "symbol": "ZST",
+ "decimals": 6,
+ "status": "active",
+ "id": "TEi7LUXgc2CsL5qWZYw7pTtPwCj9sAGMJk"
+}
